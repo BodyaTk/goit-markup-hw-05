@@ -466,6 +466,11 @@ button:focus {
   display: flex;
   gap: 24px;
 }
+.sub-form{
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
 .sub-icon {
   fill: #fff;
 }
