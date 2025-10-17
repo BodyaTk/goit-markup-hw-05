@@ -175,8 +175,7 @@ h3 {
   margin: auto;
 }
 
-.heroic section {
-}
+
 .container.heroi {
   display: flex;
   align-items: center;
@@ -237,8 +236,7 @@ button:focus {
   justify-content: center;
   margin-bottom: 8px;
 }
-.icon {
-}
+
 .smart-link {
   width: calc((100% - 72px) / 4);
 }
@@ -356,8 +354,7 @@ button:focus {
   transform: translateY(0);
 }
 
-.potrfolio-ctn {
-}
+
 
 .portfolio-title-card {
   font-weight: 500;
@@ -448,8 +445,7 @@ button:focus {
   background-color: #31d0aa;
   border-radius: 50%;
 }
-.input {
-}
+
 .email::placeholder {
   font-size: 12px;
   line-height: 2;
@@ -555,8 +551,7 @@ button:focus {
   color: #2e2f42;
   margin-bottom: 16px;
 }
-.modal-form {
-}
+
 
 .modal-label {
   display: block;
