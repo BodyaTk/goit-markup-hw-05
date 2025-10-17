@@ -464,7 +464,7 @@ button:focus {
   line-height: 2;
   letter-spacing: 0.04em;
   padding-left: 16px;
-  box-shadow: 0px 4px 4px rgba(46, 47, 66, 0.15);
+   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 .input {
   display: flex;
@@ -571,6 +571,9 @@ padding: 0;
   text-align: center;
   color: #2e2f42;
   margin-bottom: 16px;
+}
+.modal-container{
+  margin-bottom: 8px;
 }
 
 
