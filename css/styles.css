@@ -664,7 +664,6 @@ button:focus {
     fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .check-icon {
-  fill: currentColor;
 }
 .accent-text {
   color: #4d5ae5;
@@ -673,7 +672,7 @@ button:focus {
   text-decoration: underline;
   text-decoration-skip-ink: none;
 }
-.check:checked + .agreement-wraper > .agreement-checkbox {
+input[type='checkbox']:checked + .agreement-wraper > .agreement-checkbox {
   background-color: #404bbf;
   border-color: #404bbf;
   fill: #f4f4fd;
@@ -683,6 +682,7 @@ button:focus {
   display: block;
   min-width: 169px;
   height: 56px;
+  margin: 0 auto;
 }
 
 /* #endregion */
